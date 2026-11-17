@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+Sitemap: https://binyammichael1-cell.github.io/gedeuffa-dictionary/sitemap.xml
